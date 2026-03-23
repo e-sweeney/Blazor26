@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {}
+    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
+    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
         "projectName": "Blazor26.Models",
-        "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
+        "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
         "packagesPath": "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Models\\obj\\",
+        "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

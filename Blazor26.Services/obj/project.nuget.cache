@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tUscQC4WU7k=",
+  "dgSpecHash": "5h/1Iuwl9eY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj",
+  "projectFilePath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
