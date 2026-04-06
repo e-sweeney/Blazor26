@@ -3,6 +3,7 @@ using Blazor26.Services;
 using BlazorApp2026.Components;
 
 using Microsoft.EntityFrameworkCore;
+using Syncfusion.Blazor;
 
 namespace BlazorApp2026
 {
@@ -12,10 +13,14 @@ namespace BlazorApp2026
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1JHaF5cWWdCe0xwWmFZfVhgdVVMYVhbR3NPMyBoS35RcEVnWXlfcHVRQmRYVkdzVEFe");
+
             // Add services to the container.
             builder.Services.AddRazorComponents()
                 .AddInteractiveServerComponents()
                 .AddInteractiveWebAssemblyComponents();
+
+            builder.Services.AddSyncfusionBlazor();
             builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(builder.Configuration["ConnectionStrings:DefaultConnection"]));
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IFileMgt, FileMgt>();
