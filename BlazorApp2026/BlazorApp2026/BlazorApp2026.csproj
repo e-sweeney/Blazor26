@@ -12,8 +12,15 @@
     <ProjectReference Include="..\BlazorApp2026.Client\BlazorApp2026.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.18" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting.WindowsServices" Version="8.0.25" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Syncfusion.Blazor.Calendars" Version="33.1.44" />
+    <PackageReference Include="Syncfusion.Blazor.Charts" Version="33.1.49" />
+    <PackageReference Include="Syncfusion.Blazor.Grid" Version="32.2.7" />
     <PackageReference Include="Syncfusion.Blazor.RichTextEditor" Version="33.1.44" />
+    <PackageReference Include="Syncfusion.Blazor.Themes" Version="33.1.46" />
   </ItemGroup>
 
 </Project>
