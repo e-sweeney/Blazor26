@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Migrations\\20260415161032_seedDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86D6F666-82D5-4AFD-A9C8-3150999D4F31}|BlazorApp2026\\BlazorApp2026.csproj|c:\\users\\jessicasuleiman-stud\\onedrive - atlantic tu\\bacon\\blazor26\\blazorapp2026\\blazorapp2026\\components\\sales\\saleschart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86D6F666-82D5-4AFD-A9C8-3150999D4F31}|BlazorApp2026\\BlazorApp2026.csproj|solutionrelative:blazorapp2026\\components\\sales\\saleschart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D901689D-2F43-412A-B7E7-6655CA62A5C9}|..\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj|c:\\users\\jessicasuleiman-stud\\onedrive - atlantic tu\\bacon\\blazor26\\blazor26.dataaccess\\migrations\\20260415161032_seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D901689D-2F43-412A-B7E7-6655CA62A5C9}|..\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj|c:\\users\\jessicasuleiman-stud\\onedrive - atlantic tu\\bacon\\blazor26\\blazor26.dataaccess\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -14,10 +18,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86D6F666-82D5-4AFD-A9C8-3150999D4F31}|BlazorApp2026\\BlazorApp2026.csproj|c:\\users\\jessicasuleiman-stud\\onedrive - atlantic tu\\bacon\\blazor26\\blazorapp2026\\blazorapp2026\\components\\pages\\products\\editproducts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{86D6F666-82D5-4AFD-A9C8-3150999D4F31}|BlazorApp2026\\BlazorApp2026.csproj|solutionrelative:blazorapp2026\\components\\pages\\products\\editproducts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D6F666-82D5-4AFD-A9C8-3150999D4F31}|BlazorApp2026\\BlazorApp2026.csproj|c:\\users\\jessicasuleiman-stud\\onedrive - atlantic tu\\bacon\\blazor26\\blazorapp2026\\blazorapp2026\\components\\sales\\saleschart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{86D6F666-82D5-4AFD-A9C8-3150999D4F31}|BlazorApp2026\\BlazorApp2026.csproj|solutionrelative:blazorapp2026\\components\\sales\\saleschart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D901689D-2F43-412A-B7E7-6655CA62A5C9}|..\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj|c:\\users\\jessicasuleiman-stud\\onedrive - atlantic tu\\bacon\\blazor26\\blazor26.dataaccess\\repository\\salesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -33,24 +33,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 319,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20260415161032_seedDb.cs",
               "DocumentMoniker": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Migrations\\20260415161032_seedDb.cs",
               "RelativeDocumentMoniker": "..\\Blazor26.DataAccess\\Migrations\\20260415161032_seedDb.cs",
               "ToolTip": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Migrations\\20260415161032_seedDb.cs",
               "RelativeToolTip": "..\\Blazor26.DataAccess\\Migrations\\20260415161032_seedDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBoAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T16:10:32.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Sales.cs",
               "DocumentMoniker": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\Models\\Sales.cs",
               "RelativeDocumentMoniker": "..\\Blazor26.Models\\Models\\Sales.cs",
@@ -58,12 +62,11 @@
               "RelativeToolTip": "..\\Blazor26.Models\\Models\\Sales.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T16:07:51.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T16:07:51.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\DataAccess\\AppDBContext.cs",
               "RelativeDocumentMoniker": "..\\Blazor26.DataAccess\\DataAccess\\AppDBContext.cs",
@@ -71,12 +74,11 @@
               "RelativeToolTip": "..\\Blazor26.DataAccess\\DataAccess\\AppDBContext.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowC0AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T16:04:20.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T16:04:20.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EditProducts.razor",
               "DocumentMoniker": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026\\Components\\Pages\\Products\\EditProducts.razor",
               "RelativeDocumentMoniker": "BlazorApp2026\\Components\\Pages\\Products\\EditProducts.razor",
@@ -84,8 +86,7 @@
               "RelativeToolTip": "BlazorApp2026\\Components\\Pages\\Products\\EditProducts.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T15:55:10.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T15:55:10.288Z"
             },
             {
               "$type": "Document",
@@ -97,8 +98,24 @@
               "RelativeToolTip": "..\\Blazor26.DataAccess\\Repository\\SalesRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T15:48:25.282Z",
+              "WhenOpened": "2026-04-15T15:48:25.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesChart.razor",
+              "DocumentMoniker": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026\\Components\\Sales\\SalesChart.razor",
+              "RelativeDocumentMoniker": "BlazorApp2026\\Components\\Sales\\SalesChart.razor",
+              "ToolTip": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026\\Components\\Sales\\SalesChart.razor",
+              "RelativeToolTip": "BlazorApp2026\\Components\\Sales\\SalesChart.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T15:33:25.592Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -110,21 +127,7 @@
               "RelativeToolTip": "..\\Blazor26.DataAccess\\Repository\\ISalesRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T15:48:22.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SalesChart.razor",
-              "DocumentMoniker": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026\\Components\\Sales\\SalesChart.razor",
-              "RelativeDocumentMoniker": "BlazorApp2026\\Components\\Sales\\SalesChart.razor",
-              "ToolTip": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026\\Components\\Sales\\SalesChart.razor",
-              "RelativeToolTip": "BlazorApp2026\\Components\\Sales\\SalesChart.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-15T15:33:25.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T15:48:22.248Z"
             }
           ]
         }

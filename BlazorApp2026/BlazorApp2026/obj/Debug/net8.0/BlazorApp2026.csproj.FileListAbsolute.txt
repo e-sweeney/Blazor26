@@ -553,7 +553,6 @@ C:\Users\Edwina.Sweeney\OneDrive - Atlantic TU\BDA 2024\Git & Git Actions\Blazor
 C:\Users\Edwina.Sweeney\OneDrive - Atlantic TU\BDA 2024\Git & Git Actions\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.genruntimeconfig.cache
 C:\Users\Edwina.Sweeney\OneDrive - Atlantic TU\BDA 2024\Git & Git Actions\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\ref\BlazorApp2026.dll
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.csproj.AssemblyReference.cache
-C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.AssemblyInfoInputs.cache
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.AssemblyInfo.cs
@@ -761,15 +760,11 @@ C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp202
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Blazor26.Services.pdb
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\BlazorApp2026.Client.pdb
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Blazor26.Models.pdb
-C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\rjimswa.dswa.cache.json
-C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\scopedcss\bundle\BlazorApp2026.styles.css
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\scopedcss\projectbundle\BlazorApp2026.bundle.scp.css
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
@@ -779,3 +774,9 @@ C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp202
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.pdb
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.genruntimeconfig.cache
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\ref\BlazorApp2026.dll
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp2026.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets\msbuild.BlazorApp2026.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorApp2026.props
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp2026.props
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorApp2026.props
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\staticwebassets.pack.json

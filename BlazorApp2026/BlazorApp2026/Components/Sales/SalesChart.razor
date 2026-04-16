@@ -7,9 +7,9 @@
 
 
 
-<SfChart>
+<SfChart Title="Sales of products this year">
     <ChartPrimaryXAxis Title="Month" ValueType="Syncfusion.Blazor.Charts.ValueType.Category"></ChartPrimaryXAxis>
-    <ChartPrimaryYAxis Title="Amount Sold" ValueType="Syncfusion.Blazor.Charts.ValueType.Category"></ChartPrimaryYAxis>
+    <ChartPrimaryYAxis Title="Amount Sold"></ChartPrimaryYAxis>
     <ChartLegendSettings Visible="true"></ChartLegendSettings>
     <ChartSeriesCollection>
         <ChartSeries DataSource="@listOfSales" XName="MonthName" YName="SalesAmount" Type="ChartSeriesType.Column">

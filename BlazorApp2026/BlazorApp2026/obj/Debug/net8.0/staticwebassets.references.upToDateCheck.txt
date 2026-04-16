@@ -45,3 +45,8 @@ C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp202
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JessicaSuleiman-STUD\OneDrive - Atlantic TU\bacon\Blazor26\BlazorApp2026\BlazorApp2026.Client\obj\Debug\net8.0\staticwebassets.build.json

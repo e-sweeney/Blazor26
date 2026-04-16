@@ -1505,7 +1505,7 @@
         },
         "runtime": {
           "Blazor26.DataAccess.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1519,7 +1519,7 @@
         },
         "runtime": {
           "Blazor26.Models.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1535,7 +1535,7 @@
         },
         "runtime": {
           "Blazor26.Services.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -1549,7 +1549,7 @@
         },
         "runtime": {
           "BlazorApp2026.Client.dll": {
-            "assemblyVersion": "1.0.0.0",
+            "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
