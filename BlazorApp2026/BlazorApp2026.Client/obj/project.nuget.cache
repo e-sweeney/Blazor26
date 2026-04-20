@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8g5Es7785E8=",
+  "dgSpecHash": "JUVZ4rn14WY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\YurongGuo-STUDENT\\OneDrive - Atlantic TU\\Year 3\\S6\\ASP.Net Development\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
+  "projectFilePath": "C:\\Users\\YurongGuo-STUDENT\\Desktop\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.25\\microsoft.aspnetcore.authorization.8.0.25.nupkg.sha512",
@@ -45,8 +45,8 @@
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.14\\microsoft.extensions.primitives.9.0.14.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.jsinterop\\8.0.25\\microsoft.jsinterop.8.0.25.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.2\\microsoft.jsinterop.webassembly.8.0.2.nupkg.sha512",
-    "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.24\\microsoft.net.illink.tasks.8.0.24.nupkg.sha512",
-    "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.13\\microsoft.net.sdk.webassembly.pack.9.0.13.nupkg.sha512",
+    "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.18\\microsoft.net.illink.tasks.8.0.18.nupkg.sha512",
+    "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.7\\microsoft.net.sdk.webassembly.pack.9.0.7.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\syncfusion.blazor.buttons.33.1.44.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\syncfusion.blazor.calendars.33.1.44.nupkg.sha512",
@@ -77,7 +77,7 @@
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\system.text.encodings.web\\9.0.14\\system.text.encodings.web.9.0.14.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\system.text.json\\9.0.14\\system.text.json.9.0.14.nupkg.sha512",
     "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
-    "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.24\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.24.nupkg.sha512"
+    "C:\\Users\\YurongGuo-STUDENT\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.18\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.18.nupkg.sha512"
   ],
   "logs": []
 }
