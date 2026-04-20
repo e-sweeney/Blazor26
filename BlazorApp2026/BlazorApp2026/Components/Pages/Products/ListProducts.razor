@@ -1,5 +1,6 @@
 ﻿@page "/products"
 @using Blazor26.Models.Models
+@using Syncfusion.Blazor.Grids
 @inject IUnitOfWork _unitOfWork
 
 <div class="row mt-4">
@@ -8,7 +9,7 @@
 
     </div>
     <div class="col-4 offset-2">
-        <a href="products/create" class="btn btn-info form-control"> Add new Products</a>
+        <a href="/products/create" class="btn btn-info form-control"> Add new Products</a>
     </div>
 
 </div>
@@ -17,33 +18,29 @@
 <div class="col-12 p-3">
     @if (listOfProducts.Any())
     {
-        <table class="table table-bordered">
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach(var prod in listOfProducts)
-                {
-                    <tr>
-                        <td>
-                            @prod.Name
-                        </td>
-                        <td>
-                            <NavLink href="@($"products/edit/{prod.ID}")" class="btn btn-primary">Edit</NavLink>
+           <SfGrid DataSource="@listOfProducts" AllowPaging="true">
+        <GridColumns>
+            <GridColumn Field="Name" HeaderText="Name" Width="200"></GridColumn>
 
-                        </td>
-                        <td>
-                            <NavLink href="@($"products/delete/{prod.ID}")" class="btn btn-primary">Delete</NavLink>
-                        </td>
+            <GridColumn HeaderText="Edit" Width="120">
+                <Template Context="item">
+                        @{
+                            var prod = item as Product;
+                        }
+                    <NavLink href="@($"/products/edit/{prod.ID}")" class="btn btn-primary">Edit</NavLink>
+                </Template>
+            </GridColumn>
 
-                      
-                    </tr>
-                }
-            </tbody>
-        </table>
+            <GridColumn HeaderText="Delete" Width="120">
+                <Template Context="item">
+                        @{
+                            var prod = item as Product;
+                        }
+                    <NavLink href="@($"/products/delete/{prod.ID}")" class="btn btn-danger">Delete</NavLink>
+                </Template>
+            </GridColumn>
+        </GridColumns>
+    </SfGrid>
     }
     else
     {

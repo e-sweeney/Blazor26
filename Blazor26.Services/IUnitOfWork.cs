@@ -13,7 +13,9 @@ namespace Blazor26.Services
     {
         ICategoryRepo CategoryRepo { get; }
         IProductRepo ProductRepo { get; }
-        
+
+        ISalesRepo SalesRepo { get; }
+
 
         void Save();
     }

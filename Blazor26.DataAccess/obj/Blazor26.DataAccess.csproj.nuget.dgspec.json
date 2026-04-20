@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj": {}
+    "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj": {
+    "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj",
         "projectName": "Blazor26.DataAccess",
-        "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\JessicaSuleiman-STUD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edwina.Sweeney\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JessicaSuleiman-STUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
-                "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj"
+              "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
+                "projectPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -77,6 +78,22 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.14, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Syncfusion.Blazor.Charts": {
+              "target": "Package",
+              "version": "[33.1.49, )"
+            },
+            "Syncfusion.Blazor.Grid": {
+              "target": "Package",
+              "version": "[32.2.7, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[33.1.46, )"
             }
           },
           "imports": [
@@ -95,24 +112,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
+    "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
+        "projectUniqueName": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
         "projectName": "Blazor26.Models",
-        "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
-        "packagesPath": "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\obj\\",
+        "projectPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
+        "packagesPath": "C:\\Users\\JessicaSuleiman-STUD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edwina.Sweeney\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JessicaSuleiman-STUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -121,6 +138,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -139,7 +157,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -148,6 +166,28 @@
             "Microsoft.AspNetCore.Hosting.WindowsServices": {
               "target": "Package",
               "version": "[8.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.14, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Syncfusion.Blazor.Charts": {
+              "target": "Package",
+              "version": "[33.1.49, )"
+            },
+            "Syncfusion.Blazor.Grid": {
+              "target": "Package",
+              "version": "[32.2.7, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[33.1.46, )"
             }
           },
           "imports": [
@@ -166,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
