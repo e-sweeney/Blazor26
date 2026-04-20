@@ -13,6 +13,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
     <PackageReference Include="Syncfusion.Blazor.Charts" Version="33.1.49" />
     <PackageReference Include="Syncfusion.Blazor.Grid" Version="32.2.7" />
     <PackageReference Include="Syncfusion.Blazor.Themes" Version="33.1.46" />

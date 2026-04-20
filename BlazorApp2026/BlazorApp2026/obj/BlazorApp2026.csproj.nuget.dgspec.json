@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -78,6 +79,10 @@
               "target": "Package",
               "version": "[9.0.14, )"
             },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Syncfusion.Blazor.Charts": {
               "target": "Package",
               "version": "[33.1.49, )"
@@ -107,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -133,6 +138,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -151,7 +157,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -166,6 +172,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.14, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Syncfusion.Blazor.Charts": {
               "target": "Package",
@@ -196,7 +206,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -222,6 +232,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -244,7 +255,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -264,6 +275,10 @@
               "target": "Package",
               "version": "[9.0.14, )"
             },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Syncfusion.Blazor.Charts": {
               "target": "Package",
               "version": "[33.1.49, )"
@@ -293,119 +308,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
-        "projectName": "BlazorApp2026.Client",
-        "projectPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
-        "packagesPath": "C:\\Users\\JessicaSuleiman-STUD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\JessicaSuleiman-STUD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.14, )"
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.11, )",
-              "autoReferenced": true
-            },
-            "Microsoft.NET.Sdk.WebAssembly.Pack": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.0, )",
-              "autoReferenced": true
-            },
-            "Syncfusion.Blazor.Charts": {
-              "target": "Package",
-              "version": "[33.1.49, )"
-            },
-            "Syncfusion.Blazor.Grid": {
-              "target": "Package",
-              "version": "[32.2.7, )"
-            },
-            "Syncfusion.Blazor.Themes": {
-              "target": "Package",
-              "version": "[33.1.46, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.11, 8.0.11]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -431,6 +334,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -442,9 +346,6 @@
               },
               "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj": {
                 "projectPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj"
-              },
-              "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {
-                "projectPath": "C:\\Users\\JessicaSuleiman-STUD\\OneDrive - Atlantic TU\\bacon\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj"
               }
             }
           }
@@ -459,7 +360,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -478,6 +379,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.14, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Syncfusion.Blazor.Calendars": {
               "target": "Package",
@@ -519,7 +424,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,5 +1,6 @@
 ﻿using Blazor26.DataAccess.DataAccess;
 using Blazor26.Models.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,14 @@ namespace Blazor26.DataAccess.Repository
         public SalesRepo(AppDBContext dbContext) : base(dbContext)
         {
             _dbContext = dbContext;
+        }
+
+        public Task<List<Sales>> ListOfSalesDataAsync()
+        {
+            var listOfSales = _dbContext.Sales.OrderBy(s => s.MonthName).Include(p => p.Product).ToListAsync();
+            var count = listOfSales.Result.Count();
+            Console.WriteLine($"Loaded {count} sales rows");
+            return listOfSales;
         }
     }
 }

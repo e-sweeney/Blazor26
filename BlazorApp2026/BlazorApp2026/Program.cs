@@ -1,5 +1,6 @@
 using Blazor26.DataAccess.DataAccess;
 using Blazor26.Services;
+using Blazor26.Services.BusinessModels;
 using BlazorApp2026.Components;
 
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +10,7 @@ namespace BlazorApp2026
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -22,13 +23,37 @@ namespace BlazorApp2026
             builder.Services.AddSyncfusionBlazor();
 
             builder.Services.AddSyncfusionBlazor();
+            builder.Services.AddSingleton<MLService>();
             builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(builder.Configuration["ConnectionStrings:DefaultConnection"]));
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IFileMgt, FileMgt>();
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
+            using (var scope = app.Services.CreateScope())
+            {
+                var mlService = scope.ServiceProvider.GetRequiredService<MLService>();
+                var unitOfWork = scope.ServiceProvider.GetRequiredService<IUnitOfWork>();
+                var sales = await unitOfWork.SalesRepo.ListOfSalesDataAsync();
+
+                if (sales.Any())
+                {
+                    var data = sales.Select(s => new SalesData
+                    {
+                        Month = s.MonthName.Month,
+                        SalesAmount = (float)s.SalesAmount
+                    }).ToList();
+
+                    mlService.Train(data);
+                    Console.WriteLine("Model trained at startup with sales data.");
+                }
+                else
+                {
+                    Console.WriteLine("No sales data available to train the model at startup.");
+                }
+            }
+
+                // Configure the HTTP request pipeline.
+                if (app.Environment.IsDevelopment())
             {
                 app.UseWebAssemblyDebugging();
             }
@@ -46,8 +71,8 @@ namespace BlazorApp2026
 
             app.MapRazorComponents<App>()
                 .AddInteractiveServerRenderMode()
-                .AddInteractiveWebAssemblyRenderMode()
-                .AddAdditionalAssemblies(typeof(Client._Imports).Assembly);
+                .AddInteractiveWebAssemblyRenderMode();
+               
 
             app.Run();
         }

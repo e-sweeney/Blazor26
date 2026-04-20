@@ -4,18 +4,19 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\Blazor26.DataAccess\Blazor26.DataAccess.csproj" />
     <ProjectReference Include="..\..\Blazor26.Services\Blazor26.Services.csproj" />
-    <ProjectReference Include="..\BlazorApp2026.Client\BlazorApp2026.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.18" />
     <PackageReference Include="Microsoft.AspNetCore.Hosting.WindowsServices" Version="8.0.25" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.14">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.ML" Version="5.0.0" />
     <PackageReference Include="Syncfusion.Blazor.Calendars" Version="33.1.44" />
     <PackageReference Include="Syncfusion.Blazor.Charts" Version="33.1.49" />
     <PackageReference Include="Syncfusion.Blazor.Grid" Version="32.2.7" />
