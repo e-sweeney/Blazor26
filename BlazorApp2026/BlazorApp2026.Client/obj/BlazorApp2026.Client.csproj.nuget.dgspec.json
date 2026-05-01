@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {}
+    "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {
+    "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
+        "projectUniqueName": "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
         "projectName": "BlazorApp2026.Client",
-        "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
-        "packagesPath": "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\obj\\",
+        "projectPath": "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj",
+        "packagesPath": "C:\\Users\\feiliciia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Edwina.Sweeney\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\feiliciia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -57,13 +45,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.11, )",
+              "version": "[8.0.0, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.0, )",
+              "version": "[8.0.0, )",
               "autoReferenced": true
             }
           },
@@ -81,7 +69,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.12, 8.0.12]"
+              "version": "[8.0.0, 8.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -89,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
