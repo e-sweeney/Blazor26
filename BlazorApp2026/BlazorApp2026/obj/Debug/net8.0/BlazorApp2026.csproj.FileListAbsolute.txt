@@ -348,6 +348,7 @@ C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\ne
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.RichTextEditor.dll
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.Spinner.dll
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.Themes.dll
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Licensing.dll
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\System.CodeDom.dll

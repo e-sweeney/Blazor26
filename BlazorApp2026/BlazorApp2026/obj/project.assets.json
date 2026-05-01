@@ -1245,11 +1245,11 @@
           "buildMultiTargeting/Syncfusion.Blazor.Calendars.props": {}
         }
       },
-      "Syncfusion.Blazor.Core/33.1.44": {
+      "Syncfusion.Blazor.Core/33.2.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components.Web": "8.0.23",
-          "Syncfusion.Licensing": "33.1.44"
+          "Syncfusion.Licensing": "33.2.4"
         },
         "compile": {
           "lib/net8.0/Syncfusion.Blazor.Core.dll": {
@@ -1517,7 +1517,26 @@
           "buildMultiTargeting/Syncfusion.Blazor.SplitButtons.props": {}
         }
       },
-      "Syncfusion.Licensing/33.1.44": {
+      "Syncfusion.Blazor.Themes/33.2.4": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Themes.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Themes.props": {}
+        }
+      },
+      "Syncfusion.Licensing/33.2.4": {
         "type": "package",
         "compile": {
           "lib/net8.0/Syncfusion.Licensing.dll": {}
@@ -4091,10 +4110,10 @@
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Blazor.Core/33.1.44": {
-      "sha512": "yMUclicPrQ8UWg4X23f2TGeQKj0BQ+Lh9cpzPXufi2SbYPbJAwvN/p2X/Nq7UOfZczL6BVu+3VxJYTmeRtvjSg==",
+    "Syncfusion.Blazor.Core/33.2.4": {
+      "sha512": "tAlb88Jf9pHgqhC3u/4KGNgrynz7rGFSKVf4IFOwXdXJIcKdfzGcke0xbOmQ1FOqQC/Cs6eJp3/zngxcvpoy4Q==",
       "type": "package",
-      "path": "syncfusion.blazor.core/33.1.44",
+      "path": "syncfusion.blazor.core/33.2.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4118,7 +4137,7 @@
         "staticwebassets/scripts/svgbase.min.js",
         "staticwebassets/scripts/syncfusion-blazor-base.min.js",
         "staticwebassets/scripts/syncfusion-blazor.min.js",
-        "syncfusion.blazor.core.33.1.44.nupkg.sha512",
+        "syncfusion.blazor.core.33.2.4.nupkg.sha512",
         "syncfusion.blazor.core.nuspec",
         "syncfusion_logo.png"
       ]
@@ -4412,10 +4431,85 @@
         "syncfusion_logo.png"
       ]
     },
-    "Syncfusion.Licensing/33.1.44": {
-      "sha512": "6KMmTr6rvaLUsB57s5l2xoXpLVvwovbLQFIlgJOLx0ewllV7j0vPTwOWYdQSCl6+KeGZ9rff20JewhmPChVa7w==",
+    "Syncfusion.Blazor.Themes/33.2.4": {
+      "sha512": "rL0JLlBdNlZ/UqPyuK0fzdLpLonfTyoXMXD89iVYtm12VGdHb04qM2Lr22n0J/TO1TNAwuqfwQv/aWB+pQGg4Q==",
       "type": "package",
-      "path": "syncfusion.licensing/33.1.44",
+      "path": "syncfusion.blazor.themes/33.2.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Themes.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Themes.props",
+        "buildTransitive/Syncfusion.Blazor.Themes.props",
+        "lib/net10.0/Syncfusion.Blazor.Themes.dll",
+        "lib/net10.0/Syncfusion.Blazor.Themes.xml",
+        "lib/net8.0/Syncfusion.Blazor.Themes.dll",
+        "lib/net8.0/Syncfusion.Blazor.Themes.xml",
+        "lib/net9.0/Syncfusion.Blazor.Themes.dll",
+        "lib/net9.0/Syncfusion.Blazor.Themes.xml",
+        "staticwebassets/bootstrap-dark-lite.css",
+        "staticwebassets/bootstrap-dark.css",
+        "staticwebassets/bootstrap-lite.css",
+        "staticwebassets/bootstrap.css",
+        "staticwebassets/bootstrap4-lite.css",
+        "staticwebassets/bootstrap4.css",
+        "staticwebassets/bootstrap5-dark-lite.css",
+        "staticwebassets/bootstrap5-dark.css",
+        "staticwebassets/bootstrap5-lite.css",
+        "staticwebassets/bootstrap5.3-dark-lite.css",
+        "staticwebassets/bootstrap5.3-dark.css",
+        "staticwebassets/bootstrap5.3-lite.css",
+        "staticwebassets/bootstrap5.3.css",
+        "staticwebassets/bootstrap5.css",
+        "staticwebassets/customized/material-dark.css",
+        "staticwebassets/customized/material.css",
+        "staticwebassets/customized/tailwind-dark.css",
+        "staticwebassets/customized/tailwind.css",
+        "staticwebassets/fabric-dark-lite.css",
+        "staticwebassets/fabric-dark.css",
+        "staticwebassets/fabric-lite.css",
+        "staticwebassets/fabric.css",
+        "staticwebassets/fluent-dark-lite.css",
+        "staticwebassets/fluent-dark.css",
+        "staticwebassets/fluent-lite.css",
+        "staticwebassets/fluent.css",
+        "staticwebassets/fluent2-dark-lite.css",
+        "staticwebassets/fluent2-dark.css",
+        "staticwebassets/fluent2-highcontrast-lite.css",
+        "staticwebassets/fluent2-highcontrast.css",
+        "staticwebassets/fluent2-lite.css",
+        "staticwebassets/fluent2.css",
+        "staticwebassets/highcontrast-lite.css",
+        "staticwebassets/highcontrast.css",
+        "staticwebassets/material-dark-lite.css",
+        "staticwebassets/material-dark.css",
+        "staticwebassets/material-lite.css",
+        "staticwebassets/material.css",
+        "staticwebassets/material3-dark-lite.css",
+        "staticwebassets/material3-dark.css",
+        "staticwebassets/material3-lite.css",
+        "staticwebassets/material3.css",
+        "staticwebassets/tailwind-dark-lite.css",
+        "staticwebassets/tailwind-dark.css",
+        "staticwebassets/tailwind-lite.css",
+        "staticwebassets/tailwind.css",
+        "staticwebassets/tailwind3-dark-lite.css",
+        "staticwebassets/tailwind3-dark.css",
+        "staticwebassets/tailwind3-lite.css",
+        "staticwebassets/tailwind3.css",
+        "syncfusion.blazor.themes.33.2.4.nupkg.sha512",
+        "syncfusion.blazor.themes.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Licensing/33.2.4": {
+      "sha512": "2GZwnNrgmTEtF3hmYEmATGTOM2O542DuE5UMLe+f4mnf4CD/eu0JvH3zRnHdN2jVhHsEL/MhghFinOngKEdGrQ==",
+      "type": "package",
+      "path": "syncfusion.licensing/33.2.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4427,7 +4521,7 @@
         "lib/net9.0/Syncfusion.Licensing.dll",
         "lib/netstandard2.0/Syncfusion.Licensing.dll",
         "lib/uap10.0/Syncfusion.Licensing.dll",
-        "syncfusion.licensing.33.1.44.nupkg.sha512",
+        "syncfusion.licensing.33.2.4.nupkg.sha512",
         "syncfusion.licensing.nuspec",
         "syncfusion_logo.png"
       ]
@@ -5697,7 +5791,9 @@
       "Microsoft.AspNetCore.Hosting.WindowsServices >= 8.0.25",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.25",
       "Syncfusion.Blazor.Calendars >= 33.1.44",
-      "Syncfusion.Blazor.RichTextEditor >= 33.1.44"
+      "Syncfusion.Blazor.Core >= 33.2.4",
+      "Syncfusion.Blazor.RichTextEditor >= 33.1.44",
+      "Syncfusion.Blazor.Themes >= 33.2.4"
     ]
   },
   "packageFolders": {
@@ -5765,9 +5861,17 @@
             "target": "Package",
             "version": "[33.1.44, )"
           },
+          "Syncfusion.Blazor.Core": {
+            "target": "Package",
+            "version": "[33.2.4, )"
+          },
           "Syncfusion.Blazor.RichTextEditor": {
             "target": "Package",
             "version": "[33.1.44, )"
+          },
+          "Syncfusion.Blazor.Themes": {
+            "target": "Package",
+            "version": "[33.2.4, )"
           }
         },
         "imports": [

@@ -1,7 +1,7 @@
 using Blazor26.DataAccess.DataAccess;
 using Blazor26.Services;
 using BlazorApp2026.Components;
-
+using Syncfusion.Blazor;
 using Microsoft.EntityFrameworkCore;
 
 namespace BlazorApp2026
@@ -10,6 +10,8 @@ namespace BlazorApp2026
     {
         public static void Main(string[] args)
         {
+            //adding the trial license key
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1JHaF1cXmhMYVB3WmFZfVhgdVdMZV5bRHNPIiBoS35RcEVmWX5fc3VQQ2ZYVkByVEFe");
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -19,6 +21,9 @@ namespace BlazorApp2026
             builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(builder.Configuration["ConnectionStrings:DefaultConnection"]));
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
             builder.Services.AddScoped<IFileMgt, FileMgt>();
+            
+            //adding Syncfusion DI
+            builder.Services.AddSyncfusionBlazor();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

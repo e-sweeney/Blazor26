@@ -357,9 +357,17 @@
               "target": "Package",
               "version": "[33.1.44, )"
             },
+            "Syncfusion.Blazor.Core": {
+              "target": "Package",
+              "version": "[33.2.4, )"
+            },
             "Syncfusion.Blazor.RichTextEditor": {
               "target": "Package",
               "version": "[33.1.44, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[33.2.4, )"
             }
           },
           "imports": [

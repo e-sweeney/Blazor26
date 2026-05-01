@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\BlazorApp2026.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026\\wwwroot\\Images\\products\\d5ba8c9a-051b-46e9-95e6-ac5a26ebfff4.png",
+      "PackagePath": "staticwebassets\\Images\\products\\d5ba8c9a-051b-46e9-95e6-ac5a26ebfff4.png"
+    },
+    {
+      "Id": "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026\\wwwroot\\Images\\products\\default.png",
+      "PackagePath": "staticwebassets\\Images\\products\\default.png"
+    },
+    {
       "Id": "C:\\Users\\feiliciia\\RiderProjects\\blazor\\BlazorApp2026\\BlazorApp2026\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
