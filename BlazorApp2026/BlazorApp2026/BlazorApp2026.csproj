@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.25">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
     <ProjectReference Include="..\..\Blazor26.DataAccess\Blazor26.DataAccess.csproj" />
     <ProjectReference Include="..\..\Blazor26.Services\Blazor26.Services.csproj" />
     <ProjectReference Include="..\BlazorApp2026.Client\BlazorApp2026.Client.csproj" />
