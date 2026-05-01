@@ -1,0 +1,39 @@
+@page "/sales"
+@rendermode InteractiveServer
+
+@using Blazor26.Models.Models
+@using Blazor26.Services
+@using Syncfusion.Blazor.Charts
+
+@inject IUnitOfWork _unitOfWork
+
+<h3>Sales</h3>
+<p>Sales count: @salesData.Count</p>
+
+@if (salesData.Count == 0)
+{
+    <p>No sales data found.</p>
+}
+else
+{
+    <SfChart Title="Sales Data">
+        <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.Category"></ChartPrimaryXAxis>
+
+        <ChartPrimaryYAxis Title="Sales Amount">
+        </ChartPrimaryYAxis>
+
+        <ChartSeriesCollection>
+            <ChartSeries DataSource="@salesData" XName="MonthName" YName="SalesAmount" Type="ChartSeriesType.Column">
+            </ChartSeries>
+        </ChartSeriesCollection>
+    </SfChart>
+}
+
+@code {
+    private List<Sales> salesData = new();
+
+    protected override void OnInitialized()
+    {
+        salesData = _unitOfWork.SalesRepo.GetAll().ToList();
+    }
+}
