@@ -355,15 +355,23 @@
             },
             "Syncfusion.Blazor.Calendars": {
               "target": "Package",
-              "version": "[33.1.44, )"
+              "version": "[33.2.4, )"
+            },
+            "Syncfusion.Blazor.Charts": {
+              "target": "Package",
+              "version": "[33.2.4, )"
             },
             "Syncfusion.Blazor.Core": {
               "target": "Package",
               "version": "[33.2.4, )"
             },
+            "Syncfusion.Blazor.Grid": {
+              "target": "Package",
+              "version": "[33.2.4, )"
+            },
             "Syncfusion.Blazor.RichTextEditor": {
               "target": "Package",
-              "version": "[33.1.44, )"
+              "version": "[33.2.4, )"
             },
             "Syncfusion.Blazor.Themes": {
               "target": "Package",

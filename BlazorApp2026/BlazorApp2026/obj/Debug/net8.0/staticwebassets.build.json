@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4VbY0+0L8ItHDDdtiDoX1xapRhu1oJxgy+PRFVPEvL4=",
+  "Hash": "2Bgw4BWVz5wxkSoHJN7kK/Wl2H9xDhkFoFXBDctTpaY=",
   "Source": "BlazorApp2026",
   "BasePath": "_content/BlazorApp2026",
   "Mode": "Default",
@@ -36,10 +36,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-checkbox.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-checkbox.min.js",
       "SourceId": "Syncfusion.Blazor.Buttons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Buttons",
       "RelativePath": "scripts/sf-checkbox.min.js",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-checkbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-checkbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-floating-action-button.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-floating-action-button.min.js",
       "SourceId": "Syncfusion.Blazor.Buttons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Buttons",
       "RelativePath": "scripts/sf-floating-action-button.min.js",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-floating-action-button.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-floating-action-button.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-speeddial.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-speeddial.min.js",
       "SourceId": "Syncfusion.Blazor.Buttons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Buttons",
       "RelativePath": "scripts/sf-speeddial.min.js",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-speeddial.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-speeddial.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-switch.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-switch.min.js",
       "SourceId": "Syncfusion.Blazor.Buttons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Buttons",
       "RelativePath": "scripts/sf-switch.min.js",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.1.44\\staticwebassets\\scripts\\sf-switch.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.buttons\\33.2.4\\staticwebassets\\scripts\\sf-switch.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-calendar.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-calendar.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-calendar.min.js",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-calendar.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-calendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-datepicker.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-datepicker.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-datepicker.min.js",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-datepicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-datepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-daterangepicker.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-daterangepicker.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-daterangepicker.min.js",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-daterangepicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-daterangepicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-timepicker.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-timepicker.min.js",
       "SourceId": "Syncfusion.Blazor.Calendars",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Calendars",
       "RelativePath": "scripts/sf-timepicker.min.js",
       "AssetKind": "All",
@@ -185,7 +185,45 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.1.44\\staticwebassets\\scripts\\sf-timepicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.calendars\\33.2.4\\staticwebassets\\scripts\\sf-timepicker.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.charts\\33.2.4\\staticwebassets\\scripts\\sf-accumulation-chart.min.js",
+      "SourceId": "Syncfusion.Blazor.Charts",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.charts\\33.2.4\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Charts",
+      "RelativePath": "scripts/sf-accumulation-chart.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.charts\\33.2.4\\staticwebassets\\scripts\\sf-accumulation-chart.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.charts\\33.2.4\\staticwebassets\\scripts\\sf-chart.min.js",
+      "SourceId": "Syncfusion.Blazor.Charts",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.charts\\33.2.4\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Charts",
+      "RelativePath": "scripts/sf-chart.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.charts\\33.2.4\\staticwebassets\\scripts\\sf-chart.min.js"
     },
     {
       "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.core\\33.2.4\\staticwebassets\\scripts\\popup.min.js",
@@ -321,10 +359,10 @@
       "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.core\\33.2.4\\staticwebassets\\scripts\\syncfusion-blazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.data\\33.1.44\\staticwebassets\\scripts\\data.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.data\\33.2.4\\staticwebassets\\scripts\\data.min.js",
       "SourceId": "Syncfusion.Blazor.Data",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.data\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.data\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Data",
       "RelativePath": "scripts/data.min.js",
       "AssetKind": "All",
@@ -337,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.data\\33.1.44\\staticwebassets\\scripts\\data.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.data\\33.2.4\\staticwebassets\\scripts\\data.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-dropdownlist.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-dropdownlist.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-dropdownlist.min.js",
       "AssetKind": "All",
@@ -356,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-dropdownlist.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-dropdownlist.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-listbox.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-listbox.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-listbox.min.js",
       "AssetKind": "All",
@@ -375,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-listbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-listbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-mention.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-mention.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-mention.min.js",
       "AssetKind": "All",
@@ -394,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-mention.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-mention.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-multiselect.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-multiselect.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sf-multiselect.min.js",
       "AssetKind": "All",
@@ -413,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sf-multiselect.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sf-multiselect.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sortable.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sortable.min.js",
       "SourceId": "Syncfusion.Blazor.DropDowns",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.DropDowns",
       "RelativePath": "scripts/sortable.min.js",
       "AssetKind": "All",
@@ -432,13 +470,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.1.44\\staticwebassets\\scripts\\sortable.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.dropdowns\\33.2.4\\staticwebassets\\scripts\\sortable.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-colorpicker.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.grid\\33.2.4\\staticwebassets\\scripts\\sf-grid.min.js",
+      "SourceId": "Syncfusion.Blazor.Grid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.grid\\33.2.4\\staticwebassets\\",
+      "BasePath": "_content/Syncfusion.Blazor.Grid",
+      "RelativePath": "scripts/sf-grid.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.grid\\33.2.4\\staticwebassets\\scripts\\sf-grid.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-colorpicker.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-colorpicker.min.js",
       "AssetKind": "All",
@@ -451,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-colorpicker.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-colorpicker.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-maskedtextbox.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-maskedtextbox.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-maskedtextbox.min.js",
       "AssetKind": "All",
@@ -470,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-maskedtextbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-maskedtextbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-numerictextbox.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-numerictextbox.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-numerictextbox.min.js",
       "AssetKind": "All",
@@ -489,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-numerictextbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-numerictextbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-otp-input.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-otp-input.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-otp-input.min.js",
       "AssetKind": "All",
@@ -508,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-otp-input.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-otp-input.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-rating.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-rating.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-rating.min.js",
       "AssetKind": "All",
@@ -527,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-rating.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-rating.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-signature.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-signature.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-signature.min.js",
       "AssetKind": "All",
@@ -546,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-signature.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-signature.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-slider.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-slider.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-slider.min.js",
       "AssetKind": "All",
@@ -565,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-slider.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-slider.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-speechtotext.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-speechtotext.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-speechtotext.min.js",
       "AssetKind": "All",
@@ -584,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-speechtotext.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-speechtotext.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-textarea.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-textarea.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-textarea.min.js",
       "AssetKind": "All",
@@ -603,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-textarea.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-textarea.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-textbox.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-textbox.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-textbox.min.js",
       "AssetKind": "All",
@@ -622,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-textbox.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-textbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-uploader.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-uploader.min.js",
       "SourceId": "Syncfusion.Blazor.Inputs",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Inputs",
       "RelativePath": "scripts/sf-uploader.min.js",
       "AssetKind": "All",
@@ -641,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.1.44\\staticwebassets\\scripts\\sf-uploader.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.inputs\\33.2.4\\staticwebassets\\scripts\\sf-uploader.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.lists\\33.1.44\\staticwebassets\\scripts\\sf-listview.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.lists\\33.2.4\\staticwebassets\\scripts\\sf-listview.min.js",
       "SourceId": "Syncfusion.Blazor.Lists",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.lists\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.lists\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Lists",
       "RelativePath": "scripts/sf-listview.min.js",
       "AssetKind": "All",
@@ -660,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.lists\\33.1.44\\staticwebassets\\scripts\\sf-listview.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.lists\\33.2.4\\staticwebassets\\scripts\\sf-listview.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\navigationsbase.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\navigationsbase.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/navigationsbase.min.js",
       "AssetKind": "All",
@@ -679,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\navigationsbase.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\navigationsbase.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-accordion.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-accordion.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-accordion.min.js",
       "AssetKind": "All",
@@ -698,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-accordion.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-accordion.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-breadcrumb.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-breadcrumb.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-breadcrumb.min.js",
       "AssetKind": "All",
@@ -717,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-breadcrumb.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-breadcrumb.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-carousel.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-carousel.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-carousel.min.js",
       "AssetKind": "All",
@@ -736,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-carousel.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-contextmenu.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-contextmenu.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-contextmenu.min.js",
       "AssetKind": "All",
@@ -755,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-contextmenu.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-contextmenu.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-dropdowntree.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-dropdowntree.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-dropdowntree.min.js",
       "AssetKind": "All",
@@ -774,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-dropdowntree.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-dropdowntree.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-menu.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-menu.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-menu.min.js",
       "AssetKind": "All",
@@ -793,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-menu.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-menu.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-pager.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-pager.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-pager.min.js",
       "AssetKind": "All",
@@ -812,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-pager.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-pager.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-sidebar.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-sidebar.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-sidebar.min.js",
       "AssetKind": "All",
@@ -831,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-sidebar.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-sidebar.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-stepper.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-stepper.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-stepper.min.js",
       "AssetKind": "All",
@@ -850,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-stepper.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-stepper.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-tab.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-tab.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-tab.min.js",
       "AssetKind": "All",
@@ -869,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-tab.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-tab.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-toolbar.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-toolbar.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-toolbar.min.js",
       "AssetKind": "All",
@@ -888,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-toolbar.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-toolbar.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-treeview.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-treeview.min.js",
       "SourceId": "Syncfusion.Blazor.Navigations",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Navigations",
       "RelativePath": "scripts/sf-treeview.min.js",
       "AssetKind": "All",
@@ -907,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.1.44\\staticwebassets\\scripts\\sf-treeview.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.navigations\\33.2.4\\staticwebassets\\scripts\\sf-treeview.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.notifications\\33.1.44\\staticwebassets\\scripts\\sf-toast.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.notifications\\33.2.4\\staticwebassets\\scripts\\sf-toast.min.js",
       "SourceId": "Syncfusion.Blazor.Notifications",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.notifications\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.notifications\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Notifications",
       "RelativePath": "scripts/sf-toast.min.js",
       "AssetKind": "All",
@@ -926,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.notifications\\33.1.44\\staticwebassets\\scripts\\sf-toast.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.notifications\\33.2.4\\staticwebassets\\scripts\\sf-toast.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.1.44\\staticwebassets\\scripts\\sf-dialog.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.2.4\\staticwebassets\\scripts\\sf-dialog.min.js",
       "SourceId": "Syncfusion.Blazor.Popups",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Popups",
       "RelativePath": "scripts/sf-dialog.min.js",
       "AssetKind": "All",
@@ -945,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.1.44\\staticwebassets\\scripts\\sf-dialog.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.2.4\\staticwebassets\\scripts\\sf-dialog.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.1.44\\staticwebassets\\scripts\\sf-tooltip.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.2.4\\staticwebassets\\scripts\\sf-tooltip.min.js",
       "SourceId": "Syncfusion.Blazor.Popups",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Popups",
       "RelativePath": "scripts/sf-tooltip.min.js",
       "AssetKind": "All",
@@ -964,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.1.44\\staticwebassets\\scripts\\sf-tooltip.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.popups\\33.2.4\\staticwebassets\\scripts\\sf-tooltip.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\33.1.44\\staticwebassets\\scripts\\sf-richtexteditor.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\33.2.4\\staticwebassets\\scripts\\sf-richtexteditor.min.js",
       "SourceId": "Syncfusion.Blazor.RichTextEditor",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.RichTextEditor",
       "RelativePath": "scripts/sf-richtexteditor.min.js",
       "AssetKind": "All",
@@ -983,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\33.1.44\\staticwebassets\\scripts\\sf-richtexteditor.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.richtexteditor\\33.2.4\\staticwebassets\\scripts\\sf-richtexteditor.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.1.44\\staticwebassets\\scripts\\sf-spinner.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.2.4\\staticwebassets\\scripts\\sf-spinner.min.js",
       "SourceId": "Syncfusion.Blazor.Spinner",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Spinner",
       "RelativePath": "scripts/sf-spinner.min.js",
       "AssetKind": "All",
@@ -1002,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.1.44\\staticwebassets\\scripts\\sf-spinner.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.2.4\\staticwebassets\\scripts\\sf-spinner.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.1.44\\staticwebassets\\scripts\\spinner.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.2.4\\staticwebassets\\scripts\\spinner.min.js",
       "SourceId": "Syncfusion.Blazor.Spinner",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.Spinner",
       "RelativePath": "scripts/spinner.min.js",
       "AssetKind": "All",
@@ -1021,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.1.44\\staticwebassets\\scripts\\spinner.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.spinner\\33.2.4\\staticwebassets\\scripts\\spinner.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.1.44\\staticwebassets\\scripts\\sf-drop-down-button.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.2.4\\staticwebassets\\scripts\\sf-drop-down-button.min.js",
       "SourceId": "Syncfusion.Blazor.SplitButtons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.SplitButtons",
       "RelativePath": "scripts/sf-drop-down-button.min.js",
       "AssetKind": "All",
@@ -1040,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.1.44\\staticwebassets\\scripts\\sf-drop-down-button.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.2.4\\staticwebassets\\scripts\\sf-drop-down-button.min.js"
     },
     {
-      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.1.44\\staticwebassets\\scripts\\splitbuttonsbase.min.js",
+      "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.2.4\\staticwebassets\\scripts\\splitbuttonsbase.min.js",
       "SourceId": "Syncfusion.Blazor.SplitButtons",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.1.44\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.2.4\\staticwebassets\\",
       "BasePath": "_content/Syncfusion.Blazor.SplitButtons",
       "RelativePath": "scripts/splitbuttonsbase.min.js",
       "AssetKind": "All",
@@ -1059,7 +1116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.1.44\\staticwebassets\\scripts\\splitbuttonsbase.min.js"
+      "OriginalItemSpec": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\33.2.4\\staticwebassets\\scripts\\splitbuttonsbase.min.js"
     },
     {
       "Identity": "C:\\Users\\feiliciia\\.nuget\\packages\\syncfusion.blazor.themes\\33.2.4\\staticwebassets\\bootstrap-dark-lite.css",

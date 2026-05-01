@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blazor26.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1220b739acb56b4dd0f6dbfe43a604db9f6a282a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0785c9d4cd37a1f109776ffb09141e99884ab6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blazor26.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blazor26.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

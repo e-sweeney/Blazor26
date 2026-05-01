@@ -466,3 +466,8 @@ C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\obj\Debug\ne
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.pdb
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\BlazorApp2026.genruntimeconfig.cache
 C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\obj\Debug\net8.0\ref\BlazorApp2026.dll
+C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.Charts.dll
+C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.DataVizCommon.dll
+C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.Blazor.Grids.dll
+C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.ExcelExport.Net.dll
+C:\Users\feiliciia\RiderProjects\blazor\BlazorApp2026\BlazorApp2026\bin\Debug\net8.0\Syncfusion.PdfExport.Net.dll
