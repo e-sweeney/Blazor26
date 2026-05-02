@@ -2,6 +2,7 @@
 
 @page "/products/edit"
 @using Blazor26.Models.Models
+@using Syncfusion.Blazor.RichTextEditor
 @inject NavigationManager _navigationManager;
 @inject IUnitOfWork _unitOfWork;
 @inject IFileMgt _fileMgt;
@@ -25,8 +26,8 @@
 			
 			 <div class="form-group mb-4">
 				<label>Description</label>
-				@*<SfRichTextEditor ID="Description" @bind-Value="Product.description" >					
-				</SfRichTextEditor> *@
+				<SfRichTextEditor ID="Description" @bind-Value="Product.description" Height="300px">
+				</SfRichTextEditor> 
 			</div>
 
 			<div class="form-group mb-3">
