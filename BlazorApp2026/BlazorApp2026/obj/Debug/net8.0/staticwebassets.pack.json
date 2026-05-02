@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp2026.bundle.scp.css",
+      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\BlazorApp2026\\BlazorApp2026\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp2026.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorApp2026.odtun3rusj.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\app.css",
+      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\BlazorApp2026\\BlazorApp2026\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

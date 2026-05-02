@@ -1206,6 +1206,25 @@
           "buildMultiTargeting/Syncfusion.Blazor.SplitButtons.props": {}
         }
       },
+      "Syncfusion.Blazor.Themes/33.1.44": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Syncfusion.Blazor.Themes.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Syncfusion.Blazor.Themes.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Syncfusion.Blazor.Themes.props": {}
+        }
+      },
       "Syncfusion.Licensing/33.1.44": {
         "type": "package",
         "compile": {
@@ -3407,6 +3426,81 @@
         "syncfusion_logo.png"
       ]
     },
+    "Syncfusion.Blazor.Themes/33.1.44": {
+      "sha512": "0X73igs0sqUtmm4tzUQyWihsmFv8wsTITVwvKDf+r4zmKHzV8vMcDlzKOH0x6b84ynGKoRP8rVkB6CMPLG+JWw==",
+      "type": "package",
+      "path": "syncfusion.blazor.themes/33.1.44",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Syncfusion.Blazor.Themes.props",
+        "buildMultiTargeting/Syncfusion.Blazor.Themes.props",
+        "buildTransitive/Syncfusion.Blazor.Themes.props",
+        "lib/net10.0/Syncfusion.Blazor.Themes.dll",
+        "lib/net10.0/Syncfusion.Blazor.Themes.xml",
+        "lib/net8.0/Syncfusion.Blazor.Themes.dll",
+        "lib/net8.0/Syncfusion.Blazor.Themes.xml",
+        "lib/net9.0/Syncfusion.Blazor.Themes.dll",
+        "lib/net9.0/Syncfusion.Blazor.Themes.xml",
+        "staticwebassets/bootstrap-dark-lite.css",
+        "staticwebassets/bootstrap-dark.css",
+        "staticwebassets/bootstrap-lite.css",
+        "staticwebassets/bootstrap.css",
+        "staticwebassets/bootstrap4-lite.css",
+        "staticwebassets/bootstrap4.css",
+        "staticwebassets/bootstrap5-dark-lite.css",
+        "staticwebassets/bootstrap5-dark.css",
+        "staticwebassets/bootstrap5-lite.css",
+        "staticwebassets/bootstrap5.3-dark-lite.css",
+        "staticwebassets/bootstrap5.3-dark.css",
+        "staticwebassets/bootstrap5.3-lite.css",
+        "staticwebassets/bootstrap5.3.css",
+        "staticwebassets/bootstrap5.css",
+        "staticwebassets/customized/material-dark.css",
+        "staticwebassets/customized/material.css",
+        "staticwebassets/customized/tailwind-dark.css",
+        "staticwebassets/customized/tailwind.css",
+        "staticwebassets/fabric-dark-lite.css",
+        "staticwebassets/fabric-dark.css",
+        "staticwebassets/fabric-lite.css",
+        "staticwebassets/fabric.css",
+        "staticwebassets/fluent-dark-lite.css",
+        "staticwebassets/fluent-dark.css",
+        "staticwebassets/fluent-lite.css",
+        "staticwebassets/fluent.css",
+        "staticwebassets/fluent2-dark-lite.css",
+        "staticwebassets/fluent2-dark.css",
+        "staticwebassets/fluent2-highcontrast-lite.css",
+        "staticwebassets/fluent2-highcontrast.css",
+        "staticwebassets/fluent2-lite.css",
+        "staticwebassets/fluent2.css",
+        "staticwebassets/highcontrast-lite.css",
+        "staticwebassets/highcontrast.css",
+        "staticwebassets/material-dark-lite.css",
+        "staticwebassets/material-dark.css",
+        "staticwebassets/material-lite.css",
+        "staticwebassets/material.css",
+        "staticwebassets/material3-dark-lite.css",
+        "staticwebassets/material3-dark.css",
+        "staticwebassets/material3-lite.css",
+        "staticwebassets/material3.css",
+        "staticwebassets/tailwind-dark-lite.css",
+        "staticwebassets/tailwind-dark.css",
+        "staticwebassets/tailwind-lite.css",
+        "staticwebassets/tailwind.css",
+        "staticwebassets/tailwind3-dark-lite.css",
+        "staticwebassets/tailwind3-dark.css",
+        "staticwebassets/tailwind3-lite.css",
+        "staticwebassets/tailwind3.css",
+        "syncfusion.blazor.themes.33.1.44.nupkg.sha512",
+        "syncfusion.blazor.themes.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
     "Syncfusion.Licensing/33.1.44": {
       "sha512": "6KMmTr6rvaLUsB57s5l2xoXpLVvwovbLQFIlgJOLx0ewllV7j0vPTwOWYdQSCl6+KeGZ9rff20JewhmPChVa7w==",
       "type": "package",
@@ -4460,27 +4554,28 @@
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 8.0.18",
       "Microsoft.AspNetCore.Hosting.WindowsServices >= 8.0.25",
       "Syncfusion.Blazor.Calendars >= 33.1.44",
-      "Syncfusion.Blazor.RichTextEditor >= 33.1.44"
+      "Syncfusion.Blazor.RichTextEditor >= 33.1.44",
+      "Syncfusion.Blazor.Themes >= 33.1.44"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\": {},
+    "C:\\Users\\franc\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\BlazorApp2026.csproj",
+      "projectUniqueName": "C:\\Users\\franc\\Blazor26\\BlazorApp2026\\BlazorApp2026\\BlazorApp2026.csproj",
       "projectName": "BlazorApp2026",
-      "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\BlazorApp2026.csproj",
-      "packagesPath": "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026\\obj\\",
+      "projectPath": "C:\\Users\\franc\\Blazor26\\BlazorApp2026\\BlazorApp2026\\BlazorApp2026.csproj",
+      "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\franc\\Blazor26\\BlazorApp2026\\BlazorApp2026\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Edwina.Sweeney\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4495,14 +4590,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj"
+            "C:\\Users\\franc\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\franc\\Blazor26\\Blazor26.DataAccess\\Blazor26.DataAccess.csproj"
             },
-            "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj": {
-              "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj"
+            "C:\\Users\\franc\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj": {
+              "projectPath": "C:\\Users\\franc\\Blazor26\\Blazor26.Services\\Blazor26.Services.csproj"
             },
-            "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {
-              "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\Asp.net 2024\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj"
+            "C:\\Users\\franc\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj": {
+              "projectPath": "C:\\Users\\franc\\Blazor26\\BlazorApp2026\\BlazorApp2026.Client\\BlazorApp2026.Client.csproj"
             }
           }
         }
@@ -4517,7 +4612,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4536,6 +4631,10 @@
             "version": "[33.1.44, )"
           },
           "Syncfusion.Blazor.RichTextEditor": {
+            "target": "Package",
+            "version": "[33.1.44, )"
+          },
+          "Syncfusion.Blazor.Themes": {
             "target": "Package",
             "version": "[33.1.44, )"
           }
@@ -4559,7 +4658,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
