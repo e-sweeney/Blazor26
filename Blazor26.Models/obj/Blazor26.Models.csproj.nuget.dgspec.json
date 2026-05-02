@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {}
+    "C:\\Users\\franc\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
+    "C:\\Users\\franc\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
+        "projectUniqueName": "C:\\Users\\franc\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
         "projectName": "Blazor26.Models",
-        "projectPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
-        "packagesPath": "C:\\Users\\Edwina.Sweeney\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Edwina.Sweeney\\OneDrive - Atlantic TU\\BDA 2024\\Git & Git Actions\\Blazor26\\Blazor26.Models\\obj\\",
+        "projectPath": "C:\\Users\\franc\\Blazor26\\Blazor26.Models\\Blazor26.Models.csproj",
+        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franc\\Blazor26\\Blazor26.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edwina.Sweeney\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
